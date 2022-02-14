@@ -1,0 +1,17 @@
+1 - Qual é o grande benefício de uma Maquina Virtual .NET (CLR - common language runtime)?
+R: Executar o código independente do sistema operacional.
+No mundo .NET você terá sempre o mesmo MSIL que será executado pela Maquina Virtual CLR, independente do sistema operacional. Assim não é preciso rescrever ou adaptar o código para rodar em um outro sistema operacional ou integrar em um projeto escrito com outra linguagem .NET.
+
+2 - Dependendo da linguagem de programação, existem vários tipos de aplicações que você pode desenvolver, como por exemplo:
+a) Sistemas para Web (Web Sites ou Web Apps)
+b) Sistemas puramente "Server-Side"
+c) Aplicativos móveis
+d) Jogos de console (como o Xbox)
+e) Aplicativos de desktop
+
+Quais tipos de aplicações você pode criar com a linguagem C#?
+R: Todos, seja web ou puramente server-side, aplicativo móveis ou um jogos, o C# atende todas essas áreas! No entanto, os sistemas web e desktop são os que mais fizeram sucesso no mundo C# e mais empregam desenvolvedores.
+
+3 - Nesta primeira aula, conhecemos o .NET Framework . Sobre ele, assinale as alternativas corretas:
+R: 01 - Toda linguagem .NET é compilada para a linguagem intermediária MSIL e é compatível com o .NET Framework. Este é um dos benefícios do .NET Framework e o MSIL.
+02 - .NET Framework é a biblioteca utilizada por todas as aplicações .NET. Qualquer aplicação escrita em uma linguagem .NET (aquelas que são compiladas para MSIL) podem usar o .NET Framework.
