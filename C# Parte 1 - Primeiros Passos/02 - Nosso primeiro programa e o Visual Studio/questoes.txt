@@ -1,0 +1,8 @@
+1 - Veja as afirmações abaixo sobre a compilação e execução de código C#:
+    A - Durante a compilação acontece uma verificação sintática do código fonte.
+    B - Na compilação e execução podem aparecer erros.
+    C - Quando executamos o programa compilado, a CLR lê e executa o código MSIL gerado.
+    D - O compilador gera o MSIL caso não tenha nenhum erro sintático no código fonte.
+
+Quais afirmações são verdadeiras?
+R: Todas as afirmações são verdadeiras.
