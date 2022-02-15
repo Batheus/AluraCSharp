@@ -1,0 +1,9 @@
+// c:\Windows\Microsoft.NET\Framework\v4.0.30319\csc.exe MeuPrimeiroPrograma.exe
+
+using System;
+
+class Programa {
+    static void Main(string[] args) {
+        Console.WriteLine("Olá, mundo!");
+    }
+}
