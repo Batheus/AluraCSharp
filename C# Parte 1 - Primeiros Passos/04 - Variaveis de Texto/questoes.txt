@@ -1,0 +1,21 @@
+1 - Rômulo é um grande entusiasta da linguagem C# e está sempre disposto a aprender novas coisas. A última coisa que Rômulo resolveu aprender são strings e chars em C#, mas ele ainda não tem certeza de como deve declarar cada um dos tipos. Qual das alternativas têm a resposta correta para Rômulo?
+R:  string frase = "Estou sempre disposto a aprender novas tecnologias";
+    char letra = 'a';
+
+2 - Guilherme, vendo que Rômulo continuava com algumas dificuldades com C#, resolveu elaborar um desafio para seu amigo utilizando conceitos de concatenação de Strings, vistos neste capítulo. O desafio continha o seguinte trecho de código:
+    string saudacao = "Olá, meu nome é ";
+    string nome = "Rômulo ";
+    string continuacao = "e minha idade é ";
+    int idade = 100;
+    Console.WriteLine(saudacao + nome + continuacao + idade);
+R: Não há problemas, a concatenação pode ser feita.
+
+3 - Rômulo, depois de assistir os vídeos deste capítulo, resolveu testar o que foi dito em aula e fez um código para somar dois valores quaisquer.
+
+string parcela_1 = "10";
+string parcela_2 = "20";
+
+Console.WriteLine(parcela_1 + parcela_2);
+
+Rômulo terá o resultado esperado (30) com este trecho de código?
+R: Não, o resultado será 1020. O resultado será a concatenação das duas parcelas.
