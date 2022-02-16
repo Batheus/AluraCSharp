@@ -6,3 +6,48 @@
 
 Quais afirmações são verdadeiras?
 R: Todas as afirmações são verdadeiras.
+
+2 - Podemos programar em C# utilizando editores de textos e IDEs. Nesse contexto, marque as opções verdadeiras:
+R: 
+A - Um IDE é um ambiente integrado de desenvolvimento que centraliza em um único lugar: compilador da linguagem utilizada, editor de texto, documentação, banco de dados e tudo que gira em torno da criação de aplicações.
+Por esta razão, desenvolver em IDE é bastante produtivo.
+
+B - O Visual Studio Community é a versão gratuita da IDE Visual Studio.
+Apesar de ser uma versão gratuita, esta IDE é excelente e servirá muito bem para o desenvolvimento dos projetos de nossos cursos em C#.
+
+3 - A Ana está começando com desenvolvimento C# e já aprendeu que a aplicação deve conter o bloco (função ou método) Main. Porém, ela não se lembra qual era a definição correta (palavras chaves e parâmetros) dessa função/método:
+
+using System;
+
+class Programa {
+
+    ??? Main ??? {
+        Console.WriteLine("Você pode ajudar a Ana?");
+    }
+}
+
+Qual é a definição correta?
+R: static void Main(string[] args)
+Ainda não sabemos o que significam todas essas palavras, mas fique tranquilo! Logo vai ficar claro para você. Nesse momento basta saber que a entrada de uma aplicação C# é sempre uma função/método static void Main(string[] args).
+
+4 - O Pedro está trabalhando em uma máquina com Windows recém instalado, com nenhum programa adicional. Ele precisa compilar e executar o código C# abaixo na linha de comando, mas esqueceu os comandos.
+
+Ele tem conhecimento de que não precisamos de nada adicional no sistema Windows para compilar e executar nosso código C#.
+
+Arquivo Programa.txt:
+
+using System;
+
+class Programa
+{
+    static void Main(string[] args)
+    {
+        Console.WriteLine("Funcionou!");
+    }
+}
+
+Quais comandos ele deve usar para compilar e rodar esse código C#?
+R: c:\Windows\Microsoft.NET\Framework\v4.0.30319\csc.exe Programa.txt Programa.exe
+À partir do Windows XP, toda versão do sistema vem com o .NET instalado e o CSC.exe (CSharpCompiler) é um dos integrantes.
+
+Executando esta instrução teremos como saída um arquivo Programa.exe executável.
