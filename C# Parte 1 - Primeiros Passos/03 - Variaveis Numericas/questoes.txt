@@ -1,0 +1,22 @@
+1 - Selecione a opção que mostra como podemos criar e definir o valor de uma variável, para poder representar a quantidade de dias de um mês.
+R:  int diasDoMes;
+    diasDoMes = 30;
+
+2 - Aprendemos que é possível fazer operações entre números. Podemos até fazer operações aritméticas com variáveis de tipos diferentes, como multiplicar um inteiro por um número de ponto flutuante (int e double).
+
+Verificando cada instrução abaixo diga qual das opções está errada:
+R:  int brindes = 15;
+    int pessoas = 2;
+    Console.WriteLine(brindes / pessoas);
+
+Este código é o errado. Pois quando fazemos operações entre inteiros o resultado sempre será inteiro e não de ponto flutuante. O resultado na verdade seria 7.
+
+3 - Agora que já sabemos fazer operações com variáveis e também concatenar texto com números, vamos usar o que aprendemos para indicar todas as alternativas abaixo que mostrem o resultado "A idade de Marcos é 30!":
+R:  int idade = 30;
+    Console.WriteLine("A idade de Marcos é " + idade + "!");
+
+    double idade = 30.0;
+    Console.WriteLine("A idade de Marcos é " + (int)idade + "!");
+
+    int idade = 20;
+    Console.WriteLine("A idade de Marcos é 30!");
