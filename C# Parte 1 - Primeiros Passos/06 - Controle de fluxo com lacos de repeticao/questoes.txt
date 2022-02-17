@@ -1,0 +1,162 @@
+----- Questão 1 -----
+1 - Fernando decidiu praticar seu conhecimento sobre a estrutura de repetição while. Ele escreveu o seguinte programa:
+using System;
+using System.Collections.Generic;
+using System.Configuration;
+using System.Linq;
+using System.Net;
+
+class Program
+{
+    static void Main(string[] args)
+    {        
+        int contador = 1;
+
+        while(contador <= 10)
+        {            
+            Console.WriteLine(contador);
+        }
+    }
+}
+
+Todavia, seu programa só imprime no console 1 infinitamente.
+
+Consegue enxergar o problema no código de Fernando? Depois de formar uma opinião compare seu achado com a resposta do instrutor logo em seguida.
+R: O while aceita receber dois valores, true e false. O valor true mantém o loop em execução, já o false o finaliza. Esses valores podem ser resultados de uma expressão como contador <= 10. Todavia, no código de Fernando, ele não incrementou a variável contador a cada iteração do while. Devido a esse esquecimento, a variável contador sempre mantinha o valor 1 fazendo com que o programa caísse em um loop infinito.
+Ou seja, faltou contador++;
+
+----- Questão 2 -----
+2 - Quais as afirmações abaixo são verdadeiras em relação ao while?
+R: A) Na expressão condicional do while é possível utilizar qualquer operador de comparação (< [menor], > [maior], <= [menor ou igual], >= [maior ou igual], == [igual a] e != [diferente de]) e qualquer operador lógico (&& [and], || [ou]).
+Todos os operadores de comparação e lógicos são válidos na expressão condicional do while! Use-os com sabedoria!
+
+B) O while sempre precisará de uma expressão condicional que definirá quando o laço deve ser interrompido.
+Lembre-se, essa expressão condicional precisará ser informada dentro dos parênteses do while e pode ainda utilizar qualquer um dos operadores de comparação e operadores lógicos aprendidos no capítulo 5.
+
+----- Questão 3 -----
+3 - Dessa vez, Clarice resolveu desafiar Fernando a transformar o código a seguir que utiliza um laço while em um código que utilize o for. Você consegue ajudar Fernando a chegar a resposta do desafio? Compare a sua resposta com a do instrutor e verifique se acertou!
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+class Programa
+{
+    static void Main(String[] args)
+    {
+        int contador = 1;            
+        while (contador <= 10)
+        {
+            Console.WriteLine(contador);
+            contador++;
+        }
+    }
+}
+
+R: Como visto na aula, o for oferece uma opção de declaração mais enxuta, onde precisamos informar dentro dos parênteses do for a inicialização da variável que irá servir de auxiliar para a condição de parada, a condição de parada que deve ser verificada como verdadeira para que o laço seja executado e, por fim, a atualização do valor da variável auxiliar. Lembrando que essas informações precisam ser separadas umas das outras por ponto e vírgula (;). A resposta ao desafio ficaria assim:
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+class Programa
+{
+    static void Main(String[] args)
+    {
+        for(int contador = 1; contador <= 10; contador++)
+        {
+            Console.WriteLine(contador);
+        }
+    }
+}
+
+----- Questão 4 -----
+4 - Clarice está em dúvida sobre o modo como o break funciona quando utilizado dentro de laços de repetição aninhados. Escolha a opção que descreve exatamente o funcionamento desse comando nessas situações.
+R: Para a execução do laço mais interno que contém o comando break e continua executando os laços mais externos. O break irá interromper apenas o laço de repetição mais interno que o contém.
+
+----- Questão 5 -----
+5 - Clarice, amiga de Fernando, percebeu que ele está com dificuldade na implementação de um loop feito com while. Seu objetivo é imprimir no console os números de 1 a 10. No entanto, o código não compilava. Vejamos seu código:
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+class Programa
+{
+    static void Main(String args[])
+    {
+        while (contador <= 10)
+        {
+            int contador = 1;            
+            Console.WriteLine(contador);
+            contador++;
+        }
+    }
+}
+
+Se você estivesse com Clarice agora, como explicaria o problema do código para ela? Depois de pensar em uma explicação, compare-a com a do instrutor a seguir.
+
+R: Clarice sabiamente se preocupou em incrementar a variável contador a cada iteração do while, para que o loop chegasse ao fim e não caísse em um loop infinito. Porém, ela declarou a variável contador dentro do bloco do while. Por uma questão de escopo, essa variável só existirá dentro do bloco while. Para piorar as contas, a expressão contador <= 10 tenta acessar uma variável que ainda não foi declarada, razão principal do erro de compilação que esta enfrentado.
+
+Corrigindo o código temos:
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+class Programa
+{
+    static void Main(String args[])
+    {
+        int contador = 1;            
+        while (contador <= 10)
+        {
+            Console.WriteLine(contador);
+            contador++;
+        }
+    }
+}
+
+----- Questão 6 -----
+6 - Após assistir as aulas de aninhamento de laços de repetição e sobre o comando break, Fernando decidiu criar um código como forma de treinamento que imprime na tela o seguinte:
+
+1
+12
+123
+1234
+12345
+
+Para isso, ele criou o seguinte código.
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+class Programa
+{
+    static void Main(String[] args)
+    {
+        for(int linha = 0; linha < 5; linha++)
+        {
+            for (int coluna = 0; coluna < 5; coluna++)
+            {
+                if ( ??? )
+                {
+                    break;
+                }
+                Console.Write( ??? );
+            }
+            Console.WriteLine();
+        }
+    }
+}
+
+No entanto, ele está em dúvida sobre como deve preencher os espaços com ???. Selecione a opção que mostra respectivamente as formas corretas de preenchimento do código. Se tiver com dúvida, faça o teste e execute o programa.
+
+R: coluna > linha e coluna+1
+Conseguimos assim obter a resposta correta! Observe que precisamos adicionar 1 ao valor da coluna pois o for está inicializando essa variável com o valor 0.
