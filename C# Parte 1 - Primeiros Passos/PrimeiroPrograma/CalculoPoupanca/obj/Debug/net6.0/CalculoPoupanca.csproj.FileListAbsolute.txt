@@ -1,0 +1,15 @@
+C:\Users\bathe\Documents\CSharp_Projects\PrimeiroPrograma\CalculoPoupanca\bin\Debug\net6.0\CalculoPoupanca.exe
+C:\Users\bathe\Documents\CSharp_Projects\PrimeiroPrograma\CalculoPoupanca\bin\Debug\net6.0\CalculoPoupanca.deps.json
+C:\Users\bathe\Documents\CSharp_Projects\PrimeiroPrograma\CalculoPoupanca\bin\Debug\net6.0\CalculoPoupanca.runtimeconfig.json
+C:\Users\bathe\Documents\CSharp_Projects\PrimeiroPrograma\CalculoPoupanca\bin\Debug\net6.0\CalculoPoupanca.dll
+C:\Users\bathe\Documents\CSharp_Projects\PrimeiroPrograma\CalculoPoupanca\bin\Debug\net6.0\CalculoPoupanca.pdb
+C:\Users\bathe\Documents\CSharp_Projects\PrimeiroPrograma\CalculoPoupanca\obj\Debug\net6.0\CalculoPoupanca.csproj.AssemblyReference.cache
+C:\Users\bathe\Documents\CSharp_Projects\PrimeiroPrograma\CalculoPoupanca\obj\Debug\net6.0\CalculoPoupanca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bathe\Documents\CSharp_Projects\PrimeiroPrograma\CalculoPoupanca\obj\Debug\net6.0\CalculoPoupanca.AssemblyInfoInputs.cache
+C:\Users\bathe\Documents\CSharp_Projects\PrimeiroPrograma\CalculoPoupanca\obj\Debug\net6.0\CalculoPoupanca.AssemblyInfo.cs
+C:\Users\bathe\Documents\CSharp_Projects\PrimeiroPrograma\CalculoPoupanca\obj\Debug\net6.0\CalculoPoupanca.csproj.CoreCompileInputs.cache
+C:\Users\bathe\Documents\CSharp_Projects\PrimeiroPrograma\CalculoPoupanca\obj\Debug\net6.0\CalculoPoupanca.dll
+C:\Users\bathe\Documents\CSharp_Projects\PrimeiroPrograma\CalculoPoupanca\obj\Debug\net6.0\refint\CalculoPoupanca.dll
+C:\Users\bathe\Documents\CSharp_Projects\PrimeiroPrograma\CalculoPoupanca\obj\Debug\net6.0\CalculoPoupanca.pdb
+C:\Users\bathe\Documents\CSharp_Projects\PrimeiroPrograma\CalculoPoupanca\obj\Debug\net6.0\CalculoPoupanca.genruntimeconfig.cache
+C:\Users\bathe\Documents\CSharp_Projects\PrimeiroPrograma\CalculoPoupanca\obj\Debug\net6.0\ref\CalculoPoupanca.dll
