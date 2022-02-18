@@ -1,0 +1,15 @@
+C:\Users\bathe\Documents\CSharp_Projects\PrimeiroPrograma\CalculoInvestimento\bin\Debug\net6.0\CalculoInvestimento.exe
+C:\Users\bathe\Documents\CSharp_Projects\PrimeiroPrograma\CalculoInvestimento\bin\Debug\net6.0\CalculoInvestimento.deps.json
+C:\Users\bathe\Documents\CSharp_Projects\PrimeiroPrograma\CalculoInvestimento\bin\Debug\net6.0\CalculoInvestimento.runtimeconfig.json
+C:\Users\bathe\Documents\CSharp_Projects\PrimeiroPrograma\CalculoInvestimento\bin\Debug\net6.0\CalculoInvestimento.dll
+C:\Users\bathe\Documents\CSharp_Projects\PrimeiroPrograma\CalculoInvestimento\bin\Debug\net6.0\CalculoInvestimento.pdb
+C:\Users\bathe\Documents\CSharp_Projects\PrimeiroPrograma\CalculoInvestimento\obj\Debug\net6.0\CalculoInvestimento.csproj.AssemblyReference.cache
+C:\Users\bathe\Documents\CSharp_Projects\PrimeiroPrograma\CalculoInvestimento\obj\Debug\net6.0\CalculoInvestimento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bathe\Documents\CSharp_Projects\PrimeiroPrograma\CalculoInvestimento\obj\Debug\net6.0\CalculoInvestimento.AssemblyInfoInputs.cache
+C:\Users\bathe\Documents\CSharp_Projects\PrimeiroPrograma\CalculoInvestimento\obj\Debug\net6.0\CalculoInvestimento.AssemblyInfo.cs
+C:\Users\bathe\Documents\CSharp_Projects\PrimeiroPrograma\CalculoInvestimento\obj\Debug\net6.0\CalculoInvestimento.csproj.CoreCompileInputs.cache
+C:\Users\bathe\Documents\CSharp_Projects\PrimeiroPrograma\CalculoInvestimento\obj\Debug\net6.0\CalculoInvestimento.dll
+C:\Users\bathe\Documents\CSharp_Projects\PrimeiroPrograma\CalculoInvestimento\obj\Debug\net6.0\refint\CalculoInvestimento.dll
+C:\Users\bathe\Documents\CSharp_Projects\PrimeiroPrograma\CalculoInvestimento\obj\Debug\net6.0\CalculoInvestimento.pdb
+C:\Users\bathe\Documents\CSharp_Projects\PrimeiroPrograma\CalculoInvestimento\obj\Debug\net6.0\CalculoInvestimento.genruntimeconfig.cache
+C:\Users\bathe\Documents\CSharp_Projects\PrimeiroPrograma\CalculoInvestimento\obj\Debug\net6.0\ref\CalculoInvestimento.dll

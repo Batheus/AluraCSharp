@@ -1,0 +1,15 @@
+C:\Users\bathe\Documents\CSharp_Projects\PrimeiroPrograma\CaracteresTextos\bin\Debug\net6.0\CaracteresTextos.exe
+C:\Users\bathe\Documents\CSharp_Projects\PrimeiroPrograma\CaracteresTextos\bin\Debug\net6.0\CaracteresTextos.deps.json
+C:\Users\bathe\Documents\CSharp_Projects\PrimeiroPrograma\CaracteresTextos\bin\Debug\net6.0\CaracteresTextos.runtimeconfig.json
+C:\Users\bathe\Documents\CSharp_Projects\PrimeiroPrograma\CaracteresTextos\bin\Debug\net6.0\CaracteresTextos.dll
+C:\Users\bathe\Documents\CSharp_Projects\PrimeiroPrograma\CaracteresTextos\bin\Debug\net6.0\CaracteresTextos.pdb
+C:\Users\bathe\Documents\CSharp_Projects\PrimeiroPrograma\CaracteresTextos\obj\Debug\net6.0\CaracteresTextos.csproj.AssemblyReference.cache
+C:\Users\bathe\Documents\CSharp_Projects\PrimeiroPrograma\CaracteresTextos\obj\Debug\net6.0\CaracteresTextos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bathe\Documents\CSharp_Projects\PrimeiroPrograma\CaracteresTextos\obj\Debug\net6.0\CaracteresTextos.AssemblyInfoInputs.cache
+C:\Users\bathe\Documents\CSharp_Projects\PrimeiroPrograma\CaracteresTextos\obj\Debug\net6.0\CaracteresTextos.AssemblyInfo.cs
+C:\Users\bathe\Documents\CSharp_Projects\PrimeiroPrograma\CaracteresTextos\obj\Debug\net6.0\CaracteresTextos.csproj.CoreCompileInputs.cache
+C:\Users\bathe\Documents\CSharp_Projects\PrimeiroPrograma\CaracteresTextos\obj\Debug\net6.0\CaracteresTextos.dll
+C:\Users\bathe\Documents\CSharp_Projects\PrimeiroPrograma\CaracteresTextos\obj\Debug\net6.0\refint\CaracteresTextos.dll
+C:\Users\bathe\Documents\CSharp_Projects\PrimeiroPrograma\CaracteresTextos\obj\Debug\net6.0\CaracteresTextos.pdb
+C:\Users\bathe\Documents\CSharp_Projects\PrimeiroPrograma\CaracteresTextos\obj\Debug\net6.0\CaracteresTextos.genruntimeconfig.cache
+C:\Users\bathe\Documents\CSharp_Projects\PrimeiroPrograma\CaracteresTextos\obj\Debug\net6.0\ref\CaracteresTextos.dll
